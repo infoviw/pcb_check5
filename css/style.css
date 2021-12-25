@@ -40,7 +40,8 @@ body {
      background-repeat: no-repeat;
      background-size: 100% 100%;
      color: #fff;
-     font-size: 14px;
+     font-size: 20px;
+     font-weight: 500;
      line-height: 1.80857;
 }
 
@@ -352,7 +353,7 @@ ul.btn li:last-child {
 }
 
 .white_bg {
-  background: rgb(104, 199, 207);
+  background: rgb(135, 209, 216);
   border-radius: 50px;
   opacity: 0.9;
   padding: 40px 35px;
