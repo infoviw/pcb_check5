@@ -1035,8 +1035,8 @@ ul.img_icon li {
 
 @media only screen and (max-width: 600px) {
   #abt {
-    display: inline;
-    margin-top: -1000px;
+    display: block;
+    margin-top: -200px;
   }
   #hd{
        display: block;
